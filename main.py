@@ -9,6 +9,6 @@ def pengurangan(a,b):
 def main():
 	print (penambahan(5,5))
 	print (pengurangan(10,5))
-
+  
 main()
 
